@@ -19,6 +19,8 @@ Angelo de Abreu e Lima Neto
 Carolina Pacheco - cpacheco@alpekpolyester.com; 
 Aline Alves Berek - aberek@alpekpolyester.com
 
+
+
 #TI
 ===========================================================
 Daniel Santos Coutinho -  Analista de Segurança da PQS
