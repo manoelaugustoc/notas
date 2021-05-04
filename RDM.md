@@ -117,9 +117,32 @@ Para Evanilson = easantos@alpekpolyester.com
 ** RDM2021011801N, RDM2021011905N, RDM2021011907N
 
 ## Titulos
-Alterar a aplicação Fluxo de Caixa para que possa autenticar por dois domínios simultaneamente
+Alterar a aplicação XXXXXXXXXXXX para que possa autenticar por dois domínios simultaneamente
 
 ## Descrição
+Devido à unificação de domínios do grupo ALPEK se torna necessário alterar as aplicações WEB desenvolvidas internamente para que possam autenticar os usuários enxergando dois domínios simultaneamente. 
+
+Isso se deve a estratégia de migração dos usuário e equipamentos para o novo domínio que poderá ser divididas em ondas onde por algum tempo teremos usuários simultaneamente no domínio PSUAPE e ALPEK.
+
+## Solução 
+Alterar a autenticação do sistema para que verifique o usuário em mais de um domínio 
+
+## Checagem de segurança
+Foram realizados testes de autenticação da ferramente no domínio atual e no novo domínio alpek
+
+
+## Analise de prioridade 
+2
+2
+2
+
+##Risco da Mudança
+3
+3
+2
+2
+3
+5
 Devido à unificação de domínios do grupo ALPEK se torna necessário alterar as aplicações WEB desenvolvidas internamente para que possam autenticar os usuários enxergando dois domínios simultaneamente. 
 
 Isso se deve a estratégia de migração dos usuário e equipamentos para o novo domínio que poderá ser divididas em ondas onde por algum tempo teremos usuários simultaneamente no domínio PSUAPE e ALPEK.
