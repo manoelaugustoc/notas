@@ -8,6 +8,9 @@
 https://www.linkedin.com/in/manoelaugustoc/
 
 
+#Estácio
+202001121171@alunos.estacio.br
+
 Tenho mais de 20 anos de experiência na área de tecnologia, atuando em diversos projetos para atender clientes das áreas de logística, indústria de alimentos, indústria de eletrônicos, transportadoras, comércio varejista e ﬁnanceiro. Gerenciei projetos de desenvolvimento e infraestrutura com equipes multidisciplinares. Projetos de ampliação e migração de sistemas, Implantação e ampliação de redes de dados (WIFI e Cabeadas), projetos de desenvolvimento sistemas web, mobile, mainframe e client server, projetos de compliance a LGPD e outras legislações de segurança de dados e privacidade. Atuando com metodologias ágeis de gestão de projetos, com formação de squads de equipes multidisciplinares e de alta performance. Sou um profissional auto didata, sempre atento as tranformações no mundo digital e tecnicas de gestão voltadas ao aumento de performance sem deixar de olhar para o bem estar de seus times.
 
 
