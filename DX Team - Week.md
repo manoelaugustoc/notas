@@ -8,14 +8,12 @@ Luis Dourado
 # Innovation
 Ricardo Bertolo - Sensedia
 Lucas Lima Leite
-Edelberto Hermann Rosler
 Rogério da Rocha Cezar Lima
 
 
 # Support
 Luciana Zanetti Bandeira
 Alana Cristina Paulino dos Santos Silva
-Luis Gustavo Fernandes da Silva Ardito
 Luis Roberto Barbosa
 Vanessa Bernardes Dos Santos
 Vitor Otavio da Silva
@@ -25,13 +23,26 @@ Amanda
 
 luciana.bandeira@sensedia.com
 
+
+
 #--------------------------
 # Sorteio Week In Quotes
 #--------------------------
 Alana Cristina Paulino dos Santos Silva
 Pablo Lobo
-Vitor Otavio da Silva
+Andre da Costa Gonçalves
+Amanda Lima Souza
+Ricardo Bertolo - Sensedia
+Lucas Lima Leite
+Rogério da Rocha Cezar Lima
+Luciana Zanetti Bandeira
+Luis Roberto Barbosa
+Vanessa Bernardes Dos Santos
+
+https://sorteador.com.br/sorteio-de-nomes
 
 
 
-# Roteiro para tratamento preventivo
+
+
+
