@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título.md",
+                "file": "teste numero dois.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "teste numero dois"
             }
           }
         ],
@@ -207,7 +207,7 @@
   "active": "5c328e425fae1153",
   "lastOpenFiles": [
     "Configuração do Obsidian e Jekyll.md",
-    "Sem título.md",
+    "teste numero dois.md",
     "Sem título.canvas",
     "serie true blood.md",
     "Policia.md",
